@@ -1,5 +1,3 @@
-# OFICINA-2I-REDES-M4-EXP.00
-
 # Exercício 00
 
 Introdução ao HTML básico, incluindo títulos, parágrafos, listas, imagens, linhas horizontais e links.
